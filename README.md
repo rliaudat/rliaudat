@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rliaudat
-- 👀 I’m interested in Product, Cloud, Data, Sw 
+- 👀 I’m interested in Product, Cloud, Data, Software Development
 
 
 
